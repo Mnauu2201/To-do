@@ -1,0 +1,3 @@
+# Tránh push node_modules lên Github vì nặng
+node_modules
+.env
